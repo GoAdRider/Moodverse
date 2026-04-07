@@ -1,0 +1,86 @@
+{
+  "app": {
+    "title": "情感日记"
+  },
+  "nav": {
+    "home": "主页",
+    "stats": "统计",
+    "settings": "设置"
+  },
+  "home": {
+    "title": "我的日记",
+    "write_btn": "写日记",
+    "empty_title": "还没有记录",
+    "empty_subtitle": "从今天开始记录你的情感吧",
+    "write_first": "写第一篇日记",
+    "empty_filtered_title": "没有该情感的记录"
+  },
+  "diary": {
+    "new_title": "新记录",
+    "edit_title": "编辑记录",
+    "emotion_label": "你现在感觉怎么样？",
+    "intensity_label": "情感强度",
+    "intensity_low": "轻微",
+    "intensity_high": "强烈",
+    "content_label": "今天发生了什么？",
+    "content_hint": "自由写下今天的经历、想法和感受...",
+    "content_required": "请输入内容",
+    "save_btn": "保存",
+    "update_btn": "更新",
+    "delete_title": "删除记录",
+    "delete_confirm": "确定要删除这条记录吗？此操作无法撤销。"
+  },
+  "emotion": {
+    "happy": "快乐",
+    "sad": "悲伤",
+    "angry": "愤怒",
+    "anxious": "焦虑",
+    "neutral": "平静",
+    "excited": "兴奋",
+    "tired": "疲倦",
+    "grateful": "感恩"
+  },
+  "filter": {
+    "all": "全部",
+    "clear": "清除筛选"
+  },
+  "stats": {
+    "title": "统计",
+    "last_days": "最近{0}天",
+    "empty_title": "暂无数据",
+    "empty_subtitle": "开始写日记后可以查看情感趋势",
+    "distribution": "情感分布",
+    "mood_trend": "每日情绪变化",
+    "avg_intensity": "各情感平均强度",
+    "total_entries": "总记录数",
+    "streak": "连续记录",
+    "streak_days": "{0}天",
+    "dominant_emotion": "主要情感",
+    "no_data": "暂无数据"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "about": "关于",
+    "version": "版本",
+    "privacy_note": "您的数据很安全",
+    "privacy_detail": "所有数据均存储在设备本地，不会上传到任何服务器。"
+  },
+  "language": {
+    "en": "英语",
+    "ko": "韩语",
+    "ja": "日语",
+    "zh": "中文"
+  },
+  "common": {
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "cancel": "取消",
+    "confirm": "确认",
+    "loading": "加载中..."
+  },
+  "error": {
+    "generic": "出现错误，请重试。"
+  }
+}

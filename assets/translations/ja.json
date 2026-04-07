@@ -1,0 +1,86 @@
+{
+  "app": {
+    "title": "感情日記"
+  },
+  "nav": {
+    "home": "ホーム",
+    "stats": "統計",
+    "settings": "設定"
+  },
+  "home": {
+    "title": "マイダイアリー",
+    "write_btn": "記録する",
+    "empty_title": "まだ記録がありません",
+    "empty_subtitle": "今日の感情を記録してみましょう",
+    "write_first": "最初の記録を書く",
+    "empty_filtered_title": "この感情の記録はありません"
+  },
+  "diary": {
+    "new_title": "新しい記録",
+    "edit_title": "記録を編集",
+    "emotion_label": "今どんな気持ちですか？",
+    "intensity_label": "感情の強さ",
+    "intensity_low": "弱い",
+    "intensity_high": "強い",
+    "content_label": "今日はどんなことがありましたか？",
+    "content_hint": "今日の出来事、考え、気持ちを自由に書いてください...",
+    "content_required": "内容を入力してください",
+    "save_btn": "保存する",
+    "update_btn": "更新する",
+    "delete_title": "記録を削除",
+    "delete_confirm": "この記録を削除しますか？この操作は元に戻せません。"
+  },
+  "emotion": {
+    "happy": "幸せ",
+    "sad": "悲しい",
+    "angry": "怒り",
+    "anxious": "不安",
+    "neutral": "普通",
+    "excited": "わくわく",
+    "tired": "疲れた",
+    "grateful": "感謝"
+  },
+  "filter": {
+    "all": "すべて",
+    "clear": "フィルター解除"
+  },
+  "stats": {
+    "title": "統計",
+    "last_days": "直近{0}日間",
+    "empty_title": "まだデータがありません",
+    "empty_subtitle": "日記を書き始めると感情のトレンドが表示されます",
+    "distribution": "感情の分布",
+    "mood_trend": "日別ムードの変化",
+    "avg_intensity": "感情別の平均強度",
+    "total_entries": "総記録数",
+    "streak": "連続記録",
+    "streak_days": "{0}日",
+    "dominant_emotion": "主な感情",
+    "no_data": "データがありません"
+  },
+  "settings": {
+    "title": "設定",
+    "language": "言語",
+    "about": "アプリ情報",
+    "version": "バージョン",
+    "privacy_note": "データは安全です",
+    "privacy_detail": "すべてのデータはデバイスにローカル保存されます。サーバーへのアップロードは行いません。"
+  },
+  "language": {
+    "en": "英語",
+    "ko": "韓国語",
+    "ja": "日本語",
+    "zh": "中国語"
+  },
+  "common": {
+    "save": "保存",
+    "edit": "編集",
+    "delete": "削除",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "loading": "読み込み中..."
+  },
+  "error": {
+    "generic": "エラーが発生しました。もう一度お試しください。"
+  }
+}
